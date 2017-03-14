@@ -1,0 +1,5 @@
+other things that are nice to have in here
+  user images
+  file sharing
+  push notifications on new message
+  implement other account sign ins
